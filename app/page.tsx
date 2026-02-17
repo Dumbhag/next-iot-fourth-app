@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import logoImg from "@/assets/images/logo.png"
+import logoImg from "@/assets/images/logo.png";
 import Footer from "@/components/Footer";
 import Swal from 'sweetalert2'
 import { useRouter } from "next/navigation";
