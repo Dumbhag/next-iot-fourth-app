@@ -8,7 +8,7 @@ import Swal from 'sweetalert2'
 import { useRouter } from "next/navigation";
 
 export default function Page() {
-  //สร้างตัวแปร router เพื่อจัดการการเปลี่ยนหน้า
+  
   const router = useRouter();
 
   //สร้าง state สำหรับ handle input secure code
